@@ -1,0 +1,216 @@
+@import url("https://fonts.googleapis.com/css2?family=Big+Shoulders:opsz,wght@10..72,100..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Lexend+Deca:wght@100..900&family=Libertinus+Mono&family=Manrope:wght@200..800&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Manrope;
+}
+.header {
+  background-color: black;
+  margin: 0 auto;
+  max-width: 1440px;
+  padding-top: 32px;
+}
+.hero {
+  display: flex;
+  justify-content: space-between;
+}
+.text {
+  color: #ffffff;
+  display: flex;
+  gap: 34px;
+  font-weight: 700px;
+  font-size: 13px;
+  line-height: 25px;
+  letter-spacing: 2px;
+}
+.img {
+  margin-left: 165px;
+}
+.svg {
+  margin-right: 165px;
+}
+.text1 {
+  color: white;
+  margin-left: 579px;
+  margin-top: 135px;
+  padding-bottom: 97px;
+}
+.Headphones {
+  width: 540px;
+  height: 560px;
+  margin-top: 160px;
+}
+.section {
+  margin: 0 auto;
+  max-width: 1440px;
+  display: flex;
+  align-items: center;
+  gap: 125px;
+}
+.mark {
+  margin-left: 50px;
+}
+.h5 {
+  color: #d87d4a;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 100%;
+  letter-spacing: 10px;
+  margin-bottom: 16px;
+}
+.h2 {
+  color: #000000;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 44px;
+  letter-spacing: 1.43px;
+  margin-bottom: 32px;
+  max-width: 445px;
+}
+.card {
+  margin-top: 100px;
+}
+.titlep {
+  width: 445px;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 25px;
+  margin-bottom: 40px;
+}
+.button {
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 100%;
+  letter-spacing: 1px;
+  color: #ffffff;
+  padding: 15px 30px;
+  background-color: #d87d4a;
+  border: none;
+}
+/* 2card */
+.section1 {
+  margin: 0 auto;
+  max-width: 1440px;
+  display: flex;
+  align-items: center;
+  gap: 125px;
+  margin-top: 160px;
+}
+.phone1 {
+  max-width: 445px;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 25px;
+  margin-bottom: 40px;
+}
+.phone {
+  color: #000000;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 44px;
+  letter-spacing: 1.43px;
+  margin-bottom: 32px;
+  max-width: 445px;
+}
+.button1 {
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 100%;
+  letter-spacing: 1px;
+  color: #ffffff;
+  padding: 15px 30px;
+  background-color: #d87d4a;
+  border: none;
+}
+.withephone {
+  margin: 0 auto;
+  max-width: 1440px;
+  display: flex;
+  align-items: center;
+  gap: 125px;
+  margin-top: 160px;
+}
+.withetitle {
+  color: #000000;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 44px;
+  letter-spacing: 1.43px;
+  margin-bottom: 32px;
+  max-width: 445px;
+}
+.withetext {
+  max-width: 445px;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 25px;
+  margin-bottom: 40px;
+}
+.withebutton {
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 100%;
+  letter-spacing: 1px;
+  color: #ffffff;
+  padding: 15px 30px;
+  background-color: #d87d4a;
+  border: none;
+}
+.borcard {
+  margin: 0 auto;
+  max-width: 1440px;
+  display: flex;
+  align-items: center;
+  gap: 125px;
+  margin-top: 160px;
+}
+.brotitke {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 44px;
+  letter-spacing: 1.43px;
+  width: 445px;
+  margin-bottom: 32px;
+}
+.brotext {
+  max-width: 445px;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 25px;
+}
+.rjg {
+  color: #d87d4a;
+}
+.footer {
+  background-color: black;
+  margin: 0 auto;
+  max-width: 1440px;
+  padding-top: 32px;
+  margin-top: 192px;
+}
+.fhero {
+  display: flex;
+  justify-content: space-between;
+}
+.text {
+  padding-right: 90px;
+}
+.fotertitle {
+  color: #ffffff;
+  max-width: 440px;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 25px;
+  margin-top: 36px;
+  margin-left: 165px;
+}
+.fotercard1{
+  display: flex;
+}
+.fotercard{
+    margin-left: 466px;
+    margin-top: 105px;
+    display: flex;
+    gap: 6px;
+}
